@@ -28,7 +28,7 @@ export default class HelloWorld extends Vue {
 <style scoped lang="less">
 .container {
   display: grid;
-  height: 50rem;
+  height: 70rem;
   grid-template: 
     "banner" 60px
      "skill"
